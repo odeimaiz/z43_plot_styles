@@ -1,30 +1,13 @@
-# Customizing styles
-# https://matplotlib.org/tutorials/introductory/customizing.html
-
-# Prebuilt styles
-# https://github.com/matplotlib/matplotlib/tree/master/lib/matplotlib/mpl-data/stylelib
-
-# This style documents very well what each section means
-# https://github.com/matplotlib/matplotlib/blob/master/lib/matplotlib/mpl-data/stylelib/classic.mplstyle
-
-
 ### LINES
 lines.color: black
-lines.markersize: 5
 
 ### PATCHES
 patch.edgecolor: black
-
-### FONT
-font.family: sans-serif
-font.style: normal
 
 ### TEXT
 text.color: black
 
 ### AXES
-axes.titlesize: 18
-axes.labelsize: 14
 axes.labelcolor: 404040
 axes.facecolor: DFDFDF
 axes.edgecolor: 404040
