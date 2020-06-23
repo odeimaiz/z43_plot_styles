@@ -4,6 +4,9 @@
 # Prebuilt styles
 # https://github.com/matplotlib/matplotlib/tree/master/lib/matplotlib/mpl-data/stylelib
 
+# This style documents very well what each section means
+# https://github.com/matplotlib/matplotlib/blob/master/lib/matplotlib/mpl-data/stylelib/classic.mplstyle
+
 
 ### LINES
 lines.color: white
@@ -20,8 +23,8 @@ font.style: normal
 text.color: white
 
 ### AXES
-axes.titlesize: 16
-axes.labelsize: 12
+axes.titlesize: 18
+axes.labelsize: 14
 axes.labelcolor: BFBFBF
 axes.facecolor: 202020
 axes.edgecolor: BFBFBF
