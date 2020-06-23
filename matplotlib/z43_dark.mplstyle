@@ -7,16 +7,10 @@
 
 ### LINES
 lines.color: white
+lines.markersize: 2
 
 ### PATCHES
 patch.edgecolor: white
-
-### BOXPLOT
-boxplot.boxprops.color: white
-boxplot.capprops.color: white
-boxplot.flierprops.color: white
-boxplot.flierprops.markeredgecolor: white
-boxplot.whiskerprops.color: white
 
 ### FONT
 font.family: sans-serif
