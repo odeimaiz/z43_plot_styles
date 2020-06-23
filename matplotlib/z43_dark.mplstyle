@@ -13,17 +13,20 @@ lines.markersize: 5
 patch.edgecolor: white
 
 ### FONT
-font.family: fantasy
+font.family: sans-serif
 font.style: normal
 
 ### TEXT
 text.color: white
 
 ### AXES
+axes.titlesize: 16
+axes.labelsize: 12
+axes.labelcolor: BFBFBF
 axes.facecolor: 202020
 axes.edgecolor: BFBFBF
-axes.labelcolor: BFBFBF
 axes.prop_cycle: cycler('color', ['8dd3c7', 'feffb3', 'bfbbd9', 'fa8174', '81b1d2', 'fdb462', 'b3de69', 'bc82bd', 'ccebc4', 'ffed6f'])
+patch.facecolor: 8dd3c7
 
 ### TICKS
 xtick.color: white
