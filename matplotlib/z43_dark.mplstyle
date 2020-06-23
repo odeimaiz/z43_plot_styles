@@ -1,0 +1,6 @@
+# Set black background default line colors to white.
+
+font.family : open-sans
+
+lines.linewidth : 3
+lines.markersize : 10
