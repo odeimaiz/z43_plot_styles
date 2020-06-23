@@ -14,10 +14,10 @@ lines.markersize: 5
 ### FONT
 font.family: sans-serif
 font.style: normal
-font.size: 14
+font.size: 18
 
 ### AXES
-axes.titlesize: 18
-axes.labelsize: 14
+axes.titlesize: 22
+axes.labelsize: 18
 axes.grid: True
 axes.prop_cycle: cycler('color', ['8dd3c7', 'feffb3', 'bfbbd9', 'fa8174', '81b1d2', 'fdb462', 'b3de69', 'bc82bd', 'ccebc4', 'ffed6f'])
