@@ -7,7 +7,7 @@
 
 ### LINES
 lines.color: white
-lines.markersize: 2
+lines.markersize: 4
 
 ### PATCHES
 patch.edgecolor: white
