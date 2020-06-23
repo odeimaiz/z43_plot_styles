@@ -1,29 +1,43 @@
+# https://matplotlib.org/tutorials/introductory/customizing.html#customizing-with-matplotlibrc-files
+
 # Set dark background default line, colors to white.
 
+### LINES
 lines.color: white
+
+### PATCHES
 patch.edgecolor: white
 
-text.color: white
-
-axes.facecolor: 202020
-axes.edgecolor: white
-axes.labelcolor: white
-axes.prop_cycle: cycler('color', ['8dd3c7', 'feffb3', 'bfbbd9', 'fa8174', '81b1d2', 'fdb462', 'b3de69', 'bc82bd', 'ccebc4', 'ffed6f'])
-
-xtick.color: white
-ytick.color: white
-
-grid.color: white
-
-figure.facecolor: 202020
-figure.edgecolor: 202020
-
-savefig.facecolor: 202020
-savefig.edgecolor: 202020
-
-### Boxplots
+### BOXPLOT
 boxplot.boxprops.color: white
 boxplot.capprops.color: white
 boxplot.flierprops.color: white
 boxplot.flierprops.markeredgecolor: white
 boxplot.whiskerprops.color: white
+
+### FONT
+font.family: sans-serif
+
+### TEXT
+text.color: white
+
+### AXES
+axes.facecolor: 202020
+axes.edgecolor: white
+axes.labelcolor: white
+axes.prop_cycle: cycler('color', ['8dd3c7', 'feffb3', 'bfbbd9', 'fa8174', '81b1d2', 'fdb462', 'b3de69', 'bc82bd', 'ccebc4', 'ffed6f'])
+
+### TICKS
+xtick.color: white
+ytick.color: white
+
+### GRIDS
+grid.color: 373737
+
+### FIGURE
+figure.facecolor: 202020
+figure.edgecolor: 202020
+
+### SAVING FIGURES
+savefig.facecolor: 202020
+savefig.edgecolor: 202020
