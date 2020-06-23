@@ -7,13 +7,14 @@
 
 ### LINES
 lines.color: white
-lines.markersize: 4
+lines.markersize: 5
 
 ### PATCHES
 patch.edgecolor: white
 
 ### FONT
-font.family: sans-serif
+font.family: fantasy
+font.style: normal
 
 ### TEXT
 text.color: white
