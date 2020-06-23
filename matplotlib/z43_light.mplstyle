@@ -1,0 +1,44 @@
+# Customizing styles
+# https://matplotlib.org/tutorials/introductory/customizing.html
+
+# Prebuilt styles
+# https://github.com/matplotlib/matplotlib/tree/master/lib/matplotlib/mpl-data/stylelib
+
+
+### LINES
+lines.color: black
+lines.markersize: 5
+
+### PATCHES
+patch.edgecolor: black
+
+### FONT
+font.family: sans-serif
+font.style: normal
+
+### TEXT
+text.color: black
+
+### AXES
+axes.titlesize: 16
+axes.labelsize: 12
+axes.labelcolor: BFBFBF
+axes.facecolor: 202020
+axes.edgecolor: BFBFBF
+axes.prop_cycle: cycler('color', ['8dd3c7', 'feffb3', 'bfbbd9', 'fa8174', '81b1d2', 'fdb462', 'b3de69', 'bc82bd', 'ccebc4', 'ffed6f'])
+patch.facecolor: 8dd3c7
+
+### TICKS
+xtick.color: black
+ytick.color: black
+
+### GRIDS
+grid.color: 373737
+
+### FIGURE
+figure.facecolor: 202020
+figure.edgecolor: 202020
+
+### SAVING FIGURES
+savefig.facecolor: 202020
+savefig.edgecolor: 202020
