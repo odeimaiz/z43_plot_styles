@@ -3,13 +3,13 @@ from distutils.core import setup
 setup(
   name = 'z43_styles',
   packages = ['z43_styles'],
-  version = '0.3',
+  version = '0.4',
   license='MIT',
   description = 'Z43 plotly templates',
   author = 'Odei Maiz',
   author_email = 'maiz@itis.swiss',
   url = 'https://github.com/odeimaiz/z43_plot_styles',
-  download_url = 'https://github.com/odeimaiz/z43_plot_styles/archive/v_03.tar.gz',
+  download_url = 'https://github.com/odeimaiz/z43_plot_styles/archive/v_04.tar.gz',
   keywords = ['PLOTLY', 'TEMPLATES', 'Z43'],
   install_requires=[
     'plotly',
