@@ -32,6 +32,14 @@ pio.templates["z43_base"] = go.layout.Template(
             ),
             ticks="outside"
         ),
+        images=[dict(
+            x=1,
+            y=0,
+            sizex=0.1,
+            sizey=0.1,
+            source="https://github.com/odeimaiz/z43_plot_styles/blob/master/imgs/z43_logo.png?raw=true",
+            visible=True
+        )]
     )
 )
 
