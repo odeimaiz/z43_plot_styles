@@ -1,7 +1,7 @@
 
 from distutils.core import setup
 setup(
-  name = 'odeimaiz',
+  name = 'z43_styles',
   packages = ['z43_styles'],
   version = '0.1',
   license='MIT',
@@ -12,8 +12,8 @@ setup(
   download_url = 'https://github.com/odeimaiz/z43_plot_styles/archive/v_01.tar.gz',
   keywords = ['PLOTLY', 'TEMPLATES', 'Z43'],
   install_requires=[
-          'plotly',
-      ],
+    'plotly',
+  ],
   classifiers=[
     'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
     'Intended Audience :: Developers',      # Define that your audience are developers
