@@ -9,7 +9,7 @@ setup(
   author = 'Odei Maiz',
   author_email = 'maiz@itis.swiss',
   url = 'https://github.com/odeimaiz/z43_plot_styles',
-  download_url = 'https://github.com/odeimaiz/z43_plot_styles/archive/v_01.tar.gz',
+  download_url = 'https://github.com/odeimaiz/z43_plot_styles/archive/v_03.tar.gz',
   keywords = ['PLOTLY', 'TEMPLATES', 'Z43'],
   install_requires=[
     'plotly',
