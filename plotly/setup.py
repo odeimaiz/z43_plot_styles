@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
   name = 'z43_styles',
   packages = ['z43_styles'],
-  version = '0.2',
+  version = '0.3',
   license='MIT',
   description = 'Z43 plotly templates',
   author = 'Odei Maiz',
